@@ -1,16 +1,39 @@
-# portfolio
+# Flutter Portfolio App
+A personal portfolio mobile application developed with Flutter and Dart.
 
-A new Flutter project.
+## About the Project
+
+This project is a personal Flutter application created to practice and demonstrate mobile app development skills.
+
+The application contains a portfolio-style interface with information about the developer, skills, projects and other relevant information.
+
+## Technologies
+
+- Flutter
+- Dart
+- Material Design
+- Responsive UI
+- Git & GitHub
+
+## Features
+
+- Personal portfolio interface
+- Responsive design
+- Reusable Flutter widgets
+- Clean and structured UI
+- Navigation between application sections
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Requirements
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository:
+
+```bash
+git clone https://github.com/mubina636/flutter-portfolio-app.git
